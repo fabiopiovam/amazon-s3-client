@@ -1,0 +1,6 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "2.0.3",
+	"guzzle/guzzle": "3.0.*"
+    }
+}
